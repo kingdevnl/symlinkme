@@ -22,10 +22,7 @@ This will create a new symbolic link named `.env` in the `hello` directory that 
 
 ## Options
 
-`symlinkme` supports the following options:
-
--   `-f`, `--force`: Overwrite the link if it already exists.
--   `-v`, `--version`: Display the current version of `symlinkme`.
+TODO: Add options, (force, version)
 
 ## License
 

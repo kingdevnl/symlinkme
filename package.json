@@ -1,14 +1,15 @@
 {
-    "name": "@kingdevnl/symlinkme",
-    "version": "1.0.0",
+    "name": "symlinkme",
+    "version": "1.0.4",
     "description": "",
     "main": "index.js",
     "bin": "./index.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "author": "",
-    "license": "ISC",
+    "author": "KingDevNL",
+    "repository": "kingdevnl/symlinkme",
+    "license": "MIT",
     "dependencies": {
         "yargs": "^17.7.1"
     }
